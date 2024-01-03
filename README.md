@@ -1,5 +1,4 @@
-# IpFinder 
-## Discord Ip search bot
+# Discord Ip Search Engine bot
 
 
 ### Usage:
